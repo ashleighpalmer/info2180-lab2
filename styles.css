@@ -37,6 +37,10 @@ footer
     grid-column: 1/3;
 }
 
+.Date-Author {
+    color: #718096;
+  }
+
 img {
     border-radius: 50%;
     height: 150px;
